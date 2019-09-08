@@ -1,0 +1,9 @@
+pwd--------present work directory
+ls---------list
+cd--------change directory
+mkdir-------create a folder
+touch -----create a file
+vi------- editor
+cat-----to view the file 
+grep---to get a string value from a file 
+

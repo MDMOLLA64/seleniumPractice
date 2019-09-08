@@ -1,0 +1,16 @@
+<suite>
+	<test>
+		<classes>
+		
+			<class name="com.bit.test.SmokeTest">
+
+
+			</class>
+
+
+
+		</classes>
+
+	</test>
+
+</suite>
